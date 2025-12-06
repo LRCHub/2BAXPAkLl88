@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Topping",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-06T22:03:02.918099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm The One - HEAT-TOPPING Version",
+      "artist": "ATEEZ",
+      "has_synced": true,
+      "path": "select/01_I'm_The_One_-_HEAT-TOPPING_Version_ATEEZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm The One (HEAT-TOPPING Version)",
+      "artist": "ATEEZ",
+      "has_synced": true,
+      "path": "select/02_I'm_The_One_(HEAT-TOPPING_Version)_ATEEZ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hypersonic Missiles (Patrick Topping Shields remix)",
+      "artist": "Sam Fender",
+      "has_synced": true,
+      "path": "select/03_Hypersonic_Missiles_(Patrick_Topping_Shields_remix)_Sam_Fender.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Reality (feat. Hayley Topping)",
+      "artist": "Patrick Topping",
+      "has_synced": true,
+      "path": "select/04_New_Reality_(feat._Hayley_Topping)_Patrick_Topping.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The 302 (Patrick Topping Edit)",
+      "artist": "DJ Deeon & Gettoblaster",
+      "has_synced": false,
+      "path": "select/05_The_302_(Patrick_Topping_Edit)_DJ_Deeon_&_Gettoblaster.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HEART ATTACK (Patrick Topping Remix)",
+      "artist": "Bronson",
+      "has_synced": false,
+      "path": "select/06_HEART_ATTACK_(Patrick_Topping_Remix)_Bronson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Who's Got The Bag (21st June) - Patrick Topping Remix",
+      "artist": "The Streets",
+      "has_synced": false,
+      "path": "select/07_Who's_Got_The_Bag_(21st_June)_-_Patrick_Topping_Remix_The_Streets.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Topping",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Topping_ILLIT.txt"
+    }
+  ]
+}
